@@ -3,6 +3,13 @@ name = "rs-for-reals2ipc"
 version = "0.1.0"
 edition = "2024"
 
+description = "Converts the FoR encoded reals to an arrow ipc array."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-for-reals2ipc"
+homepage = "https://github.com/takanoriyanagitani/rs-for-reals2ipc"
+documentation = "https://docs.rs/rs-for-reals2ipc/latest"
+keywords = ["arrow", "ipc", "float", "FoR", "convert"]
+
 exclude = [
 ]
 
